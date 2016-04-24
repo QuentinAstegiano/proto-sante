@@ -1,0 +1,7 @@
+#login-form {
+    width: 300px;
+    margin: 0 auto 20px auto;
+}
+#login-form input {
+    margin-bottom: 5px;
+}
