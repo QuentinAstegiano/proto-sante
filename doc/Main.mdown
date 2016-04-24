@@ -1,0 +1,60 @@
+# TODO
+
+Import des librairies
+Squelette de l'application
+    * Java
+    * Html
+Page template hello world
+Page home
+Page video list
+Fichiers d'exemples
+    * Utilisateurs
+    * Vidéos
+
+Intégration Guice
+Intégration Thymeleaf
+
+# Objectifs
+
+Faire un POC du site proto-sante sur un cas d'utilisation simple:
+    - une page d'accueil
+    - un écran de connexion
+    - une liste de vidéos, chacune accompagnée d'un texte descriptif
+
+# Technologies
+
+* Backend
+    * Dropwizard
+    * XML Auth
+        * email
+        * password
+    * XML Content
+        * title
+        * url
+        * description
+        * tags
+* Frontend
+    * Thymeleaf
+    * Youtube
+    * Bootstrap
+
+
+# Description des pages
+
+## Home
+
+* Hero image
+* Bouton de login
+
+## Video List
+
+* Liste de blocs
+* Chaque bloc contient
+    * thumbnail de la vidéo
+    * titre
+    * description
+    * liste des tags
+* Le clic sur une vidéo permet de la lancer
+
+
+
