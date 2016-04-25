@@ -18,9 +18,6 @@ Fichiers d'exemples
 Intégration Guice
 Intégration Thymeleaf
 
-vérifier la disponibilité du nom de domaine, le réserver au besoin
-    => domaines en ty ?
-accéder aux sources depuis ce poste
 chercher comment fonctionne les identifications par faceboox ou google
 présenter à Sylvain le modèle "user stories"
 
